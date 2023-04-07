@@ -19,19 +19,23 @@ const Callback = props => {
       };
 
       const authenticateWithServer = async (props) =>{
-        let userMetadata = await magic.user.getMetadata();
-         //returns email phone issuer(address)
-        const walletAddress = userMetadata.issuer.split(':')[2];
-        axios.post("http://localhost:8080/api/signin",{ walletAddress })
-        .then(res =>{
-          localStorage.setItem('token',`Bearer ${res.data.token}`);
-          connect(walletAddress);
-          router.push('/profile');
-        })
-        .catch(err =>{
-            console.log(`Error: ${err}`); 
-            router.push('/signin');
-        })
+        try{
+          let userMetadata = await magic.user.getMetadata();
+          //returns email phone issuer(address)
+         const walletAddress = userMetadata.issuer.split(':')[2];
+         axios.post("http://localhost:8080/api/signin",{ walletAddress })
+         .then(res =>{
+           localStorage.setItem('token',`Bearer ${res.data.token}`);
+           connect(walletAddress);
+           router.push('/profile');
+         })
+         .catch(err =>{
+             console.log(`Errorx: ${err}`); 
+             router.push('/signin');
+         })
+       }catch(err){
+        console.log(err);
+       }
       }
 
   return (
