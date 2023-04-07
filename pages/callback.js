@@ -2,9 +2,10 @@ import React,{ useEffect } from 'react'
 import { magic } from '../libs/magic';
 import { useRouter } from 'next/router';
 import axios from 'axios';
+import { useConnect } from 'wagmi';
 
 const Callback = props => {
-
+    const { connect } = useConnect();
     const router = useRouter();
 
     useEffect(() => {
@@ -24,6 +25,7 @@ const Callback = props => {
         axios.post("http://localhost:8080/api/signin",{ walletAddress })
         .then(res =>{
           localStorage.setItem('token',`Bearer ${res.data.token}`);
+          connect(walletAddress);
           router.push('/profile');
         })
         .catch(err =>{
