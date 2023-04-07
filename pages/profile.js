@@ -26,7 +26,11 @@ const Profile = props => {
 
   return (
     <div className='profile'>
+    <div className="wallets">
+
+    <button onClick={() =>{ router.push('/wallet') }}>MyWallet</button>
     <button onClick={SignOut}>SignOut</button>
+    </div>
     </div>
   )
 }
