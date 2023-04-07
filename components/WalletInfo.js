@@ -19,4 +19,4 @@ const WalletInfo = ({ walletAddress }) => {
   )
 }
 
-export default WalletInfo
+export default WalletInfo;

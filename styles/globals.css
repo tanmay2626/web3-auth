@@ -13,6 +13,17 @@ body{
   width: 400px;
 }
 
+.profile-update{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.pad{
+  margin-top: 20px;
+}
+
 .wallets{
   display: flex;
   flex-direction: column;
@@ -20,12 +31,17 @@ body{
   width: 100%;
 }
 
-.wallets > button{
+.wallets > button, .profile-update > button{
   width: 100%;
   margin: 0 auto;
   padding: 10px;
   font-size: 1.2rem;
   border-radius: 5px;
+}
+
+.profile-update > input{
+  height: 30px;
+  font-size: 1.2rem;
 }
 
 .profile > button{
