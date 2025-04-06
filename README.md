@@ -1,4 +1,4 @@
-![Screenshot 2025-04-07 at 12 49 04 AM](https://github.com/user-attachments/assets/a80ef0cd-9fc9-442c-9220-7d8bc638d61e)# Q1. Prepare a frequency distribution by using tally marks, then find the Mean, Median and Mode.
+# Q1. Prepare a frequency distribution by using tally marks, then find the Mean, Median and Mode.
 22, 25, 25, 28, 30, 31, 33, 35, 36, 36, 38, 39, 40, 41, 42, 43, 45, 45, 45, 46, 47, 48, 49, 50, 51,
 52, 53, 55, 55, 56, 58, 59, 60, 61, 62, 63, 65, 66, 66, 68, 69, 70, 71, 72, 73, 75, 75, 75, 78, 80
 
