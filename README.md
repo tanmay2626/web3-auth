@@ -1,6 +1,6 @@
 # Hedgit: Making Digital Asset Investing Safe
 
-![thumbnail](/images/blog1.png)
+![blog1](https://github.com/user-attachments/assets/94c557fa-b784-4f97-9bf4-03bf6594589d)
 
 ## Bridging Traditional Finance and the Digital Asset Revolution
 
