@@ -16,7 +16,7 @@ Our greatest strength at Hedgit lies within our team. Collectively, we possess o
 
 What does this mean for investors?
 
-- Lower volatility compared to direct crypto investments  
+- **Lower** volatility compared to direct crypto investments  
 - Enhanced, risk-adjusted returns  
 - Total transparency — you always see exactly what's happening  
 - Compliance with the highest standards required by global financial regulators  
@@ -43,5 +43,3 @@ Hedgit provides professional fund management tailored to digital asset markets, 
 We continue expanding our solutions and refining risk management. We're committed to deepening relationships with clients and partners.
 
 As digital assets continue their journey toward mainstream adoption, Hedgit stands ready to guide institutional investors confidently through this complex yet promising new frontier.
-
-[www.hedgit.io](https://www.hedgit.io)
