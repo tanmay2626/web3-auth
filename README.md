@@ -16,7 +16,7 @@ Our greatest strength at Hedgit lies within our team. Collectively, we possess o
 
 What does this mean for investors?
 
-- **Lower** volatility compared to direct crypto investments  
+- ***Lower*** volatility compared to direct crypto investments  
 - Enhanced, risk-adjusted returns  
 - Total transparency — you always see exactly what's happening  
 - Compliance with the highest standards required by global financial regulators  
