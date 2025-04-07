@@ -8,7 +8,7 @@ In a financial landscape continuously reshaped by technological innovation, digi
 
 Volatility levels can reach multiples of what's seen in traditional markets, liquidity dynamics differ fundamentally, and market structures operate 24/7 without conventional safeguards like circuit breakers or guardrails found in traditional markets, posing significant challenges. Despite their transformative potential, traditional financial models often fall short when attempting to navigate this evolving ecosystem.
 
-Recognizing this gap, Hedgit emerges as a pioneer, uniquely bridging deep-rooted traditional finance expertise and risk management practices with innovative digital asset strategies. Our mission is clear: apply our extensive expertise in traditional finance to develop sophisticated investment strategies and build secure investment solutions specifically designed for the evolving digital asset landscape.
+Recognizing this gap, Hedgit **emerges** as a pioneer, uniquely bridging deep-rooted traditional finance expertise and risk management practices with innovative digital asset strategies. Our mission is clear: apply our extensive expertise in traditional finance to develop sophisticated investment strategies and build secure investment solutions specifically designed for the evolving digital asset landscape.
 
 ## Decades of Experience, Built for the Digital Frontier
 
